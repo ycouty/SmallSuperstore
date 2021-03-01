@@ -1,0 +1,9 @@
+{
+    "kinesisVersion": "2.0.2",
+    "name": "01.Performance_Testing",
+    "description": "Sample Kinesis CI Project",
+    "srcDir": "src",
+    "jobDir": "test",
+    "contextDir": "context",
+    "activeContextGroupKey": "Tableau_Dev.json"
+}
